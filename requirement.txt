@@ -1,9 +1,9 @@
-streamlit
-pandas<2.0.0      # Batasi ke versi di bawah 2.0.0 untuk kompatibilitas lebih luas
-numpy<2.0.0       # Batasi ke versi di bawah 2.0.0 untuk kompatibilitas lebih luas
-scikit-learn      # Biarkan tanpa versi spesifik, biarkan installer mencari yang kompatibel
-kmodes            # Biarkan tanpa versi spesifik, biarkan installer mencari yang kompatibel
-openpyxl
-fpdf
-matplotlib
-seaborn
+streamlit==1.36.0
+pandas==1.5.3
+numpy==1.26.4
+scikit-learn==1.3.2
+kmodes==0.12.2
+openpyxl==3.1.2
+fpdf==1.7.2
+matplotlib==3.7.3
+seaborn==0.12.2
