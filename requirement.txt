@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+kmodes
+openpyxl
+fpdf 
+matplotlib
+seaborn 
+numpy 
