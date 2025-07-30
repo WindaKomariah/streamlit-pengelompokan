@@ -1,9 +1,10 @@
 streamlit
-pandas
+pandas==2.3.1
 scikit-learn
 kmodes
 openpyxl
 fpdf 
 matplotlib
 seaborn 
-numpy 
+numpy==2.3.1
+pip==25.1.1
